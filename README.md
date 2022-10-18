@@ -1,2 +1,1 @@
-# React-Native-01
-# proyecto-01-native
+# react-native-01
