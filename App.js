@@ -18,7 +18,7 @@ export default function App() {
       </View>
     </View>
   );
-}
+} //gg
 
 const styles = StyleSheet.create({
   container: {
